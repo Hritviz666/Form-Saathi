@@ -1,4 +1,4 @@
-# FormSaathi 🇮🇳
+# FormSaathi
 
 > **Multimodal AI agent that helps Indian users fill government and bank forms — field by field, in plain language.**
 
