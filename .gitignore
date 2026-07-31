@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environment
+Saathi/
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# ML model weights (too large for GitHub)
+runs/
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# ChromaDB vector store
+chroma_db/
+*.chroma
+
+# LlamaIndex storage
+storage/
+index_store/
+
+# Temp uploads
+formsaathi_uploads/
+temp/
+tmp/
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
