@@ -1,0 +1,34 @@
+
+
+# ── PDF → Image Conversion ────────────────────────────────────
+PyMuPDF==1.24.3
+tqdm==4.66.4
+
+
+# ── Image Processing (shared across all scripts) ──────────────
+Pillow==10.3.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+
+
+# ── Augmentation Script ───────────────────────────────────────
+albumentations==1.4.10
+imageio==2.34.2
+
+
+# ── OCR Pipeline (Surya) ──────────────────────────────────────
+surya-ocr==0.4.3
+
+
+
+# ── YOLOv8 ────────────────────────────────────────────────────
+ultralytics==8.2.18
+
+
+# ── Utilities ─────────────────────────────────────────────────
+scipy==1.13.1
+matplotlib==3.9.0
+pyyaml==6.0.1
+
+openai>=1.0.0
+
